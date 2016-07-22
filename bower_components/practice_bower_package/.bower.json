@@ -1,0 +1,31 @@
+{
+  "name": "practice_bower_package",
+  "homepage": "https://github.com/shailuk/package_test",
+  "authors": [
+    "shailuk <nshailesh.krishna92@gmail.com>"
+  ],
+  "description": "Just for practice",
+  "main": "app.js",
+  "keywords": [
+    "test",
+    "practice"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "83540ea6aa",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "83540ea6aa01dc5635ff9d975d77acecbce07a7b"
+  },
+  "_source": "https://github.com/shailuk/package_test.git",
+  "_target": "*",
+  "_originalSource": "practice_bower_package",
+  "_direct": true
+}
